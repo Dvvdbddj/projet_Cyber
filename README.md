@@ -75,7 +75,7 @@ Le résultat est affiché en JSON avec toutes les infos retournées par nmap (OS
 ## Utilisation typique
 
 - Lancer os_detection.py pour voir toutes les IPs actives sur le réseau
-- La renseigner dans os_detection.py et lancer le scan approfondi
+- Récupérer une ip et l'integrer dans os_detection.py pour lancer le scan approfondi
 
 
 
